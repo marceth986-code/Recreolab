@@ -1,0 +1,13 @@
+import customtkinter as ctk
+ventana = ctk.CTk()
+ventana.title("RecreoLab")
+ventana.geometry("600x400")
+ventana.grid_columnconfigure(0, weight=1)
+ventana.grid_rowconfigure(0, weight=1)
+tabs = ctk.CTkTabview(ventana)
+tabs.grid(row=0, column=0, padx=12, pady=12, sticky="nsew")
+tabs.add("Kiosco")
+tabs.add("Presupuesto")
+etiqueta = ctk.CTkLabel(tabs.tab("Kiosco"), text="Catálogo")
+etiqueta.grid(row=0, column=0, padx=12, pady=12)
+ventana.mainloop()

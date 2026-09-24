@@ -1,0 +1,22 @@
+
+[
+  [
+    ["A01", "Agua Mineral", 1000, 8, "Bebidas"],
+    ["A02", "Jugo de Naranja", 1200, 6, "Bebidas"],
+    ["A03", "Alfajor de Chocolate", 800, 10, "Snacks"],
+    ["A04", "Galletitas Dulces", 900, 2, "Snacks"],
+    ["A05", "Barrita de Cereal", 700, 5, "Snacks"],
+    ["A06", "Coca Cola", 1500, 10, "Bebidas"],
+    ["A07", "Pepsi", 1400, 8, "Bebidas"],
+    ["A08", "Chicle de Menta", 400, 15, "Golosinas"],
+    ["A09", "Gaseosa Goliat", 1100, 7, "Bebidas"],
+    ["A10", "Cheetos", 1300, 6, "Snacks"],
+    ["A11", "Turrón de Maní", 500, 12, "Golosinas"],
+    ["A12", "Papas Fritas", 1600, 5, "Snacks"],
+    ["A13", "Caramelos Mogul", 600, 20, "Golosinas"],
+    ["A14", "Chocolatina", 1000, 9, "Golosinas"],
+    ["A15", "Maní Salado", 800, 11, "Snacks"]
+  ],
+  []
+]
+
